@@ -1,0 +1,12 @@
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.exe.config
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.exe
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.pdb
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.csprojResolveAssemblyReference.cache
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.exe
+D:\prog\TanganTask\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.pdb
+D:\prog\C#\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.exe.config
+D:\prog\C#\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.exe
+D:\prog\C#\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.pdb
+D:\prog\C#\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.exe
+D:\prog\C#\OptimizationMethods\OptimizationMethods\bin\Debug\OptimizationMethods.pdb
+D:\prog\C#\OptimizationMethods\OptimizationMethods\obj\Debug\OptimizationMethods.csprojResolveAssemblyReference.cache
